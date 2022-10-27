@@ -1,0 +1,52 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Xiaomi
+ro.product.product.device=curtana
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=Redmi Note 9S
+ro.product.product.name=statix_curtana
+ro.product.build.date=Tue Oct 18 19:01:09 CEST 2022
+ro.product.build.date.utc=1666112469
+ro.product.build.fingerprint=Xiaomi/statix_curtana/curtana:13/TP1A.221005.002/leddaz10181901:user/release-keys
+ro.product.build.id=TP1A.221005.002
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.leddaz.20221018.191718
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from device/xiaomi/curtana/properties/product.prop
+####################################
+# Bluetooth
+persist.vendor.bluetooth.modem_nv_support=true
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.config.notification_sound=Eureka.ogg
+ro.config.alarm_alert=Fresh_start.ogg
+ro.config.ringtone=Your_new_adventure.ogg
+ro.com.google.ime.bs_theme=true
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+ro.opa.eligible_device=true
+ro.setupwizard.enterprise_mode=1
+ro.setupwizard.esim_cid_ignore=00000001
+ro.setupwizard.rotation_locked=true
+setupwizard.feature.baseline_setupwizard_enabled=true
+setupwizard.feature.day_night_mode_enabled=true
+setupwizard.feature.portal_notification=true
+setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false
+setupwizard.feature.show_pixel_tos=true
+setupwizard.feature.show_support_link_in_deferred_setup=false
+setupwizard.feature.skip_button_use_mobile_data.carrier1839=true
+setupwizard.theme=glif_v3_light
+ro.support_one_handed_mode=true
+# end of file
+

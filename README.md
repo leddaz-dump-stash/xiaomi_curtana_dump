@@ -1,0 +1,14 @@
+# statix_curtana-user 13 TP1A.221005.002 eng.leddaz.20221018.191718 release-keys
+- manufacturer: xiaomi
+- platform: atoll
+- codename: curtana
+- flavor: statix_curtana-user
+- release: 13
+- id: TP1A.221005.002
+- incremental: eng.leddaz.20221018.191718
+- tags: release-keys
+- fingerprint: Xiaomi/statix_curtana/curtana:13/TP1A.221005.002/leddaz10181901:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: statix_curtana-user-13-TP1A.221005.002-eng.leddaz.20221018.191718-release-keys
+- repo: xiaomi_curtana_dump

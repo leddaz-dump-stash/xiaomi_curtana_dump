@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=curtana
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=Redmi Note 9S
+ro.product.bootimage.name=statix_curtana
+ro.bootimage.build.date=Tue Oct 18 19:01:09 CEST 2022
+ro.bootimage.build.date.utc=1666112469
+ro.bootimage.build.fingerprint=Xiaomi/statix_curtana/curtana:13/TP1A.221005.002/leddaz10181901:user/release-keys
+ro.bootimage.build.id=TP1A.221005.002
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=eng.leddaz.20221018.191718
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
+
